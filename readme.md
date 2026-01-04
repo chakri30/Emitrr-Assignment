@@ -93,5 +93,6 @@ Given a transcribed physician–patient conversation, build an NLP pipeline that
    ```bash
     PhysicianNotetaker.ipynb
 
-3. Run the cells sequentially from top to bottom.S
+3. Run the cells sequentially from top to bottom.
+
 
